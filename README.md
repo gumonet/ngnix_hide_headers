@@ -1,0 +1,1 @@
+# ngnix_hide_headers
